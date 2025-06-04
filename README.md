@@ -1,5 +1,5 @@
 # bda-modulo-3-evaluacion-final-Luantall
-bda-modulo-3-evaluacion-final-Luantall created by GitHub Classroom
+
 Este repositorio contiene un proyecto de análisis de datos sobre el comportamiento de clientes dentro del programa de lealtad de una aerolínea, utilizando dos archivos CSV: Customer Flight Analysis y Customer Loyalty History.
 
 El trabajo se divide en dos fases:
